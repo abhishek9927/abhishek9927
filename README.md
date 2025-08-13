@@ -1,7 +1,7 @@
 # Hi there, I'm Abhishek 👋  
 
 Welcome to my corner of GitHub! 🚀  
-I’m passionate about **Python development**, building real-world projects, and exploring new tech stacks.  
+I’m passionate about **Data Analyst**, building real-world projects, and exploring new tech.  
 Here’s a little about me:  
 
 ---
@@ -9,17 +9,17 @@ Here’s a little about me:
 ## 🧑‍💻 About Me  
 - 🔭 Currently working on: **AI-based projects & automation tools**  
 - 🌱 Learning: **Advanced Python, APIs, and AI/ML**  
-- 💡 Interested in: **Problem-solving, full-stack development, and open-source contributions**  
+- 💡 Interested in: **Problem-solving, Data Analyst, and open-source contributions**  
 - 🎯 Goal: **Build impactful software that makes life easier**  
 
 ---
 
 ## 🛠️ Tech Stack  
 **Languages:**  
-`Python` `JavaScript` `HTML` `CSS` `SQL`  
+`Python` `Advance Excel` `SQL` `PowerBI`   
 
 **Frameworks & Libraries:**  
-`Flask` `Tkinter` `Pandas` `OpenCV` `ReportLab`  
+`Numpy` `Tkinter` `Pandas` `OpenCV` `ReportLab`  
 
 **Tools & Platforms:**  
 `Git & GitHub` `VS Code` `SQLite` `Excel Automation`  
