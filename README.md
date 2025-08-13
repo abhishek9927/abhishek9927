@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Abhishek 👋  
 
-<!--
-**abhishek9927/abhishek9927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! 🚀  
+I’m passionate about **Python development**, building real-world projects, and exploring new tech stacks.  
+Here’s a little about me:  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me  
+- 🔭 Currently working on: **AI-based projects & automation tools**  
+- 🌱 Learning: **Advanced Python, APIs, and AI/ML**  
+- 💡 Interested in: **Problem-solving, full-stack development, and open-source contributions**  
+- 🎯 Goal: **Build impactful software that makes life easier**  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:**  
+`Python` `JavaScript` `HTML` `CSS` `SQL`  
+
+**Frameworks & Libraries:**  
+`Flask` `Tkinter` `Pandas` `OpenCV` `ReportLab`  
+
+**Tools & Platforms:**  
+`Git & GitHub` `VS Code` `SQLite` `Excel Automation`  
+
+---
+
+## 📌 Featured Projects  
+- 📦 **[School Management System](#)** – A terminal-based CRUD app with PDF/Excel reports  
+- ⌨️ **[Typing Speed Test (Like TypingMaster)](#)** – Real-time WPM & accuracy tracking  
+- 💼 **[E-Commerce Billing System](#)** – Manage products, stock, and billing in Python  
+
+---
+
+## 📫 Let's Connect  
+- 💼 [LinkedIn](https://linkedin.com/)  
+- 📧 Email: your-email@example.com  
+- 🌐 [Portfolio Website](https://yourwebsite.com)  
+
+---
+
+⭐ **“Code is like humor. When you have to explain it, it’s bad.”**  
+
+Thanks for visiting! Don’t forget to check out my repositories 👇
