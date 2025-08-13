@@ -28,15 +28,15 @@ Here’s a little about me:
 
 ## 📌 Featured Projects  
 - 📦 **[School Management System](https://github.com/abhishek9927/School_Management_System)** – A terminal-based CRUD app with PDF/Excel reports  
-- ⌨️ **[Typing Speed Test (Like TypingMaster)](#)** – Real-time WPM & accuracy tracking  
+- ⌨️ **[Whatsapp Automatically Send Messege](https://github.com/abhishek9927/Whatsapp_Automatically_Message)** – Real-time WPM & accuracy tracking  
 - 💼 **[E-Commerce Billing System](#)** – Manage products, stock, and billing in Python  
 
 ---
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](https://linkedin.com/)  
-- 📧 Email: your-email@example.com  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek9927/)  
+- 📧 Email: your-kabhishek69015@gmail.com  
+- 🌐 [Portfolio Website](https://abhishek9927.github.io/)  
 
 ---
 
