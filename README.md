@@ -29,7 +29,7 @@ Here’s a little about me:
 ## 📌 Featured Projects  
 - 📦 **[School Management System](https://github.com/abhishek9927/School_Management_System)** – A terminal-based CRUD app with PDF/Excel reports  
 - ⌨️ **[Whatsapp Automatically Send Messege](https://github.com/abhishek9927/Whatsapp_Automatically_Message)** – Real-time WPM & accuracy tracking  
-- 💼 **[E-Commerce Billing System](#)** – Manage products, stock, and billing in Python  
+- 💼 **[E-Commerce Billing System](https://github.com/abhishek9927/E_Commerce)** – Manage products, stock, and billing in Python  
 
 ---
 
