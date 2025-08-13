@@ -27,7 +27,7 @@ Here’s a little about me:
 ---
 
 ## 📌 Featured Projects  
-- 📦 **[School Management System](#)** – A terminal-based CRUD app with PDF/Excel reports  
+- 📦 **[School Management System](https://github.com/abhishek9927/School_Management_System)** – A terminal-based CRUD app with PDF/Excel reports  
 - ⌨️ **[Typing Speed Test (Like TypingMaster)](#)** – Real-time WPM & accuracy tracking  
 - 💼 **[E-Commerce Billing System](#)** – Manage products, stock, and billing in Python  
 
